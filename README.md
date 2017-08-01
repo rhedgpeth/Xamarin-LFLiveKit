@@ -6,7 +6,6 @@
 
 - [x] 	Background recording
 - [x] 	Support horizontal vertical recording
-- [x] 	Support Beauty Face With GPUImage
 - [x] 	Support H264+AAC Hardware Encoding
 - [x] 	Drop frames on bad network 
 - [x] 	Dynamic switching rate
@@ -17,12 +16,11 @@
 - [x] 	Audio Mute
 - [x] 	Support Send Buffer
 - [x] 	Support WaterMark
-- [x] 	Swift Support
 - [x] 	Support Single Video or Audio 
 - [x] 	Support External input video or audio(Screen recording or Peripheral)
-- [ ] 	~~FLV package and send~~
 
 ## Requirements
+    - Xamarin.iOS
     - iOS 7.0+
     - Xcode 7.3
   
