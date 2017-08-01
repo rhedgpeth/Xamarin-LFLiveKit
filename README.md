@@ -1,6 +1,6 @@
 # Xamarin-LFLiveKit
 
-**LFLiveKit is a opensource RTMP streaming SDK for iOS.**  
+**Xamarin LFLiveKit is an open source RTMP streaming SDK for Xamarin.iOS.**  
 
 ## Features
 
@@ -43,5 +43,5 @@ stream.Url = rtmpUrl;
 session.StartLive(stream);
 ```
 
-## Credit
+## Credit/Props
  **Xamarin-LFLiveKit is a Xamarin.iOS binding library based on LFLiveKit; https://github.com/LaiFengiOS/LFLiveKit
